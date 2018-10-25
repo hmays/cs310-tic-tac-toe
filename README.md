@@ -64,7 +64,7 @@ The view class contains code that prints to the screen the actual game board tha
 		<li> How to create a two player game </li>
 		<li>How to use a Model, View, Controller</li>
 		
-	</ul>		
+			
 </p>
 	
  
